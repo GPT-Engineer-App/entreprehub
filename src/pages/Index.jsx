@@ -43,7 +43,7 @@ const Index = () => {
     <Container centerContent maxW="container.md" py={8}>
       <VStack spacing={4} width="100%">
         <Heading as="h1" size="xl">
-          Entrepreneur Network
+          GetsbyHub
         </Heading>
         <HStack width="100%" spacing={4}>
           <Avatar name="New User" src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyfHx1c2VyJTIwYXZhdGFyfGVufDB8fHx8MTcxNzk1NDI3MHww&ixlib=rb-4.0.3&q=80&w=1080" />
